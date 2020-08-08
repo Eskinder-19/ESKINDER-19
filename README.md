@@ -5,7 +5,7 @@
 
 Python Programer, Data Scientist Software Engineer. Network hacker:(In progress)
 
-Greek Community School Student :
+Greek Community School Student :man_technologist:
 
 ## About me 
 
