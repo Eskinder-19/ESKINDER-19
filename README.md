@@ -18,6 +18,6 @@ Greek Community School Student :
 
 ## Social media :mailbox_with_no_mail:
 
-[![Twitter URL](https://twitter.com/Radical_Romha)
-[![Twitter URL](https://www.instagram.com/__eskinder__/)
-[![Twitter URL](https://www.reddit.com/user/ERF19)
+[![Twitter URL] (https://twitter.com/Radical_Romha)
+[![Twitter URL] (https://www.instagram.com/__eskinder__/)
+[![Twitter URL] (https://www.reddit.com/user/ERF19)
