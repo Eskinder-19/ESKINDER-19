@@ -18,6 +18,7 @@ Greek Community School Student :
 
 ## Social media :mailbox_with_no_mail:
 
-[![Twitter URL] (https://twitter.com/Radical_Romha)
-[![Twitter URL] (https://www.instagram.com/__eskinder__/)
-[![Twitter URL] (https://www.reddit.com/user/ERF19)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/Radical_Romha)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/__eskinder__/)
+[![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)(https://www.reddit.com/user/ERF19)
+
