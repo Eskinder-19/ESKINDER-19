@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://2.bp.blogspot.com/-xIiy4p5jnSM/XCVQUtumeMI/AAAAAAAAMA0/QDMPq4JDXsgIt3pQ1VhoPpO4Vg0J4z-fACLcBGAs/s1600/Cyber%2BLink.jpg">
 
 
-# Hi, I'm Eskinder Fitsum :
+# Hi, I'm Eskinder :
 
 Python Programer, Data Scientist Software Engineer. Network hacker:(In progress)
 
